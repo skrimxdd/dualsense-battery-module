@@ -1,4 +1,4 @@
-Polybar module to show dualsense controller battery using [dualsensectl](https://github.com/nowrep/dualsensectl).
+Polybar module to show dualsense controller battery percentage using [dualsensectl](https://github.com/nowrep/dualsensectl).
 
 I used [Nerd Fonts](https://www.nerdfonts.com/) for the icon.
 
